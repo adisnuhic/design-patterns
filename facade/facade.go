@@ -1,3 +1,10 @@
+/*
+	In an online travel booking system, there are numerous subsystems and components involved, such as flight booking, hotel booking,
+	car rental, and travel insurance. Each of these subsystems might have its own set of classes, APIs, and complexities.
+	To make it easy for users to book a complete travel package, we can use the Facade pattern to provide a simplified interface
+	that hides the underlying complexities of the individual subsystems.
+*/
+
 package main
 
 import "fmt"

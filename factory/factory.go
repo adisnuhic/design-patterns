@@ -1,3 +1,9 @@
+/*
+	In an online shopping application, customers can choose various payment methods to complete their purchases,
+	such as credit cards or PayPal. To handle the different payment options seamlessly, the application uses the
+	Factory Method pattern to create and process payments.
+*/
+
 package main
 
 import "fmt"

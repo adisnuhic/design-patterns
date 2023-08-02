@@ -1,3 +1,7 @@
+/*
+	Consider a weather station application where multiple displays need to show real-time weather updates based on weather changes.
+*/
+
 package main
 
 import "fmt"

@@ -1,3 +1,10 @@
+/*
+	Let's consider a real-world example where we have two third-party payment gateways, PayPal and Stripe.
+	Each payment gateway has its own interface for processing payments. We want to integrate both payment gateways
+	into our application but present a common interface for processing payments.
+	We can use the Adapter pattern to achieve this.
+*/
+
 package main
 
 import (

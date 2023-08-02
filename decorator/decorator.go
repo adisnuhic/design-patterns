@@ -1,3 +1,8 @@
+/*
+	Let's consider a scenario of a coffee shop where customers can order different types of coffee
+	and customize them with additional toppings.
+*/
+
 package main
 
 import "fmt"
