@@ -1,3 +1,3 @@
 # Design patterns
 
-### These are design patterns that ar most commonly used
+### These are design patterns that are most commonly used
